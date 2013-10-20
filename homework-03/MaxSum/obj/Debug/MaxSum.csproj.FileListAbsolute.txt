@@ -1,0 +1,5 @@
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\MaxSum\bin\Debug\MaxSum.dll
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\MaxSum\bin\Debug\MaxSum.pdb
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\MaxSum\obj\Debug\MaxSum.csprojResolveAssemblyReference.cache
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\MaxSum\obj\Debug\MaxSum.dll
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\MaxSum\obj\Debug\MaxSum.pdb

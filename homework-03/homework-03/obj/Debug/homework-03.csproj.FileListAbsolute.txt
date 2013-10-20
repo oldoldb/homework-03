@@ -1,0 +1,10 @@
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\bin\Debug\homework-03.exe.config
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\obj\Debug\homework-03.csprojResolveAssemblyReference.cache
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\obj\Debug\homework_03.Properties.Resources.resources
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\obj\Debug\homework-03.csproj.GenerateResource.Cache
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\bin\Debug\homework-03.exe
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\bin\Debug\homework-03.pdb
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\obj\Debug\homework-03.exe
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\obj\Debug\homework-03.pdb
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\bin\Debug\MaxSumLibrary.dll
+D:\coding\现代程序设计\现代程序设计作业3\homework-03\homework-03\bin\Debug\MaxSumLibrary.pdb
